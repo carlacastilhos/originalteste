@@ -1,10 +1,9 @@
 FAQ Protocolo Digital - ANM
 ===============
-
+ Apresentação
+ --------
 .. toctree::
-   :maxdepth: 3
-   :caption: Apresentação
-   
+  
    _perguntasfaq/1.0oQueEProtocoloDigital
    _perguntasfaq/2.0PeríodoAdaptaçãoProtocoloDigital
 
