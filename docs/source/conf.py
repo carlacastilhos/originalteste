@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FAQ Protocolo Digital ANM'
+copyright = '2021, ANM'
+author = 'ANM'
 
 release = '0.1'
 version = '0.1.0'
